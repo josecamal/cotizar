@@ -1,0 +1,73 @@
+table td{
+	padding-top: 10px;
+}
+#DivLogin{
+	
+	
+
+    border: 1px solid #3179f5;
+ font-size: 14px;
+font-weight: bold;
+color: #555555;
+font-family: "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+text-shadow: 0 1px 0 #fff;
+
+
+margin-bottom: 24px;
+margin-left: 25px;
+width: 330px;
+border-radius: 4px;
+padding:   10px;
+
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+	
+    -moz-box-shadow: 2px 2px 2px #cccccc;
+    -webkit-box-shadow: 2px 2px 2px #cccccc;
+
+    box-shadow: 3px 5px 3px 3px  grey;
+}
+#usremail, #usrpass{
+	padding: 4px;
+}
+#submit{
+	padding: 8px;
+	background-color: #5b94cd;
+	color: #ffffff;
+	border: #2373a5;
+	border-radius: 4px;
+}
+#submit:hover{
+background-color: #387bbe;
+}
+
+
+#signup .indent label.error, #login .indent label.error, #frmnewpass .indent label.error{
+  margin-left: 0;
+}
+#signup label.error, #login label.error,  #frmnewpass label.error {
+  font-size: 0.8em;
+  color: #F00;
+  font-weight: bold;
+  display: block;
+}
+h2{
+	font-size: 25px;
+line-height: 40px;
+margin-bottom: 10px;
+color: #181818;
+font-family: "Georgia", "Times New Roman", Helvetica, Arial, sans-serif;
+font-weight: normal;
+display: block;
+font-size: 1.5em;
+-webkit-margin-before: 0.83em;
+-webkit-margin-after: 0.83em;
+-webkit-margin-start: 0px;
+-webkit-margin-end: 0px;
+font-weight: bold;
+color: #555555;
+font-family: "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+text-shadow: 0 1px 0 #fff;
+
+}
